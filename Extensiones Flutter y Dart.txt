@@ -1,0 +1,12 @@
+Error Lens (Alexander) - Muestra errores en tiempo real
+Paste JSON as code (Quicktype) - Pega un json como codigo
+Better Comments (Aaron Bond) - Mejora comentarios
+Awesome Flutter Snippets (Neevash Ramdial[Nash]) - Snippets para Flutter
+Bloc (Felix Angelov) - Para gestores de estado tipo bloc
+Dart (Dart Code) - Configurar el SDK de Dart que viene con el de Flutter
+Flutter (Dart Code) - Configurar el SDK de Flutter
+Pubspec Assist (Jeroen Meijer) - Para instalar dependencias facilmente
+Lorem Ipsum (Daniel Imms) - Para crear textos facilmente
+Material Icon Theme (Philipp Kief)
+SynthWave '84 (Robb Owen) - Tema
+Cascadia Code PL - Fuente
